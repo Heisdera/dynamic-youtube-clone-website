@@ -1,8 +1,8 @@
 # DYNAMIC YOUTUBE-CLONE WEBSITE
 from static to dynamic
-### V2. of the YouTube-Clone static website I did to practice HTML & CSS
 
-[https://]
+### V2. of the YouTube-Clone static website I did to practice HTML & CSS
+https://heisdera.github.io/dynamic-youtube-clone-website/
 
 ### JavaScript concepts used
 
