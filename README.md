@@ -2,6 +2,10 @@
 from static to dynamic
 
 ### V2. of the YouTube-Clone static website I did to practice HTML & CSS
+###### before
+https://heisdera.github.io/youtube-clone-static/
+
+###### after
 https://heisdera.github.io/dynamic-youtube-clone-website/
 
 ### JavaScript concepts used
